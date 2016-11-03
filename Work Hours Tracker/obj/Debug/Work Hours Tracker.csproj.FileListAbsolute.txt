@@ -1,0 +1,9 @@
+c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\bin\Debug\Work Hours Tracker.exe.config
+c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\bin\Debug\Work Hours Tracker.exe
+c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\bin\Debug\Work Hours Tracker.pdb
+c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Debug\Work Hours Tracker.csprojResolveAssemblyReference.cache
+c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Debug\Work_Hours_Tracker.Form1.resources
+c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Debug\Work_Hours_Tracker.Properties.Resources.resources
+c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Debug\Work Hours Tracker.csproj.GenerateResource.Cache
+c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Debug\Work Hours Tracker.exe
+c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Debug\Work Hours Tracker.pdb
