@@ -5,3 +5,5 @@
 
 First working version uploaded, more changes to come in the future.
 
+I created this program with the sole purpose of logging my working hours which was becoming a bit tedious, I did not wish to have a database incorporated due to the wish of being a small scale application.
+
