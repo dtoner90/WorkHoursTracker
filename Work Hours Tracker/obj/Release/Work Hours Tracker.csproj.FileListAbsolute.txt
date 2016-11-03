@@ -6,3 +6,12 @@ C:\Users\Nicole\Documents\Visual Studio 2013\Projects\Work Hours Tracker\Work Ho
 C:\Users\Nicole\Documents\Visual Studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Release\Work Hours Tracker.csproj.GenerateResource.Cache
 C:\Users\Nicole\Documents\Visual Studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Release\Work Hours Tracker.exe
 C:\Users\Nicole\Documents\Visual Studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Release\Work Hours Tracker.pdb
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\bin\Release\Work Hours Tracker.exe.config
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\obj\Release\Work Hours Tracker.exe
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\obj\Release\Work Hours Tracker.pdb
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\bin\Release\Work Hours Tracker.exe
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\bin\Release\Work Hours Tracker.pdb
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\obj\Release\Work Hours Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\obj\Release\Work_Hours_Tracker.Form1.resources
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\obj\Release\Work_Hours_Tracker.Properties.Resources.resources
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\obj\Release\Work Hours Tracker.csproj.GenerateResource.Cache

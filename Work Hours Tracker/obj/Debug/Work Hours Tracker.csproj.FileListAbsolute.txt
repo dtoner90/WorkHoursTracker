@@ -7,3 +7,6 @@ c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Ho
 c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Debug\Work Hours Tracker.csproj.GenerateResource.Cache
 c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Debug\Work Hours Tracker.exe
 c:\users\nicole\documents\visual studio 2013\Projects\Work Hours Tracker\Work Hours Tracker\obj\Debug\Work Hours Tracker.pdb
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\bin\Debug\Work Hours Tracker.exe.config
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\obj\Debug\Work Hours Tracker.exe
+C:\Users\Daniel\Desktop\WorkHoursTracker\WorkHoursTracker\Work Hours Tracker\obj\Debug\Work Hours Tracker.pdb
