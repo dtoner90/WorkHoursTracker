@@ -46,6 +46,7 @@
             this.overRateCombo = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.removeSelectionButton = new System.Windows.Forms.Button();
+            this.newMonth = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -126,7 +127,7 @@
             this.hoursTextBox.Name = "hoursTextBox";
             this.hoursTextBox.Size = new System.Drawing.Size(55, 20);
             this.hoursTextBox.TabIndex = 1;
-            this.hoursTextBox.Text = "1";
+            this.hoursTextBox.Text = "2";
             // 
             // overtimeTextBox
             // 
@@ -207,12 +208,24 @@
             this.removeSelectionButton.UseVisualStyleBackColor = true;
             this.removeSelectionButton.Click += new System.EventHandler(this.removeSelectionButton_Click);
             // 
+            // newMonth
+            // 
+            this.newMonth.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.newMonth.Location = new System.Drawing.Point(12, 489);
+            this.newMonth.Name = "newMonth";
+            this.newMonth.Size = new System.Drawing.Size(75, 24);
+            this.newMonth.TabIndex = 14;
+            this.newMonth.Text = "New month";
+            this.newMonth.UseVisualStyleBackColor = true;
+            this.newMonth.Click += new System.EventHandler(this.newMonth_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(251, 563);
+            this.Controls.Add(this.newMonth);
             this.Controls.Add(this.removeSelectionButton);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.overRateCombo);
@@ -260,6 +273,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Date;
         private System.Windows.Forms.DataGridViewTextBoxColumn Hours;
         private System.Windows.Forms.DataGridViewTextBoxColumn Overtime;
+        private System.Windows.Forms.Button newMonth;
     }
 }
 

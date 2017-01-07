@@ -151,5 +151,16 @@ namespace Work_Hours_Tracker
             }
             File.WriteAllText(path, sb.ToString());
         }
+
+        private void newMonth_Click(object sender, EventArgs e)
+        {
+            // Rename our file to the name of the previous month
+            if (!File.Exists(DateTime.Now.AddMonths(-1).ToString("MMMM") + ".csv"))
+            {
+                File.Move(path, DateTime.Now.AddMonths(-1).ToString("MMMM") + ".csv");
+
+                dataGridView1.Rows.Clear();
+            }
+        }
     }
 } 
