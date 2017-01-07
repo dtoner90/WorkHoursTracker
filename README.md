@@ -1,5 +1,10 @@
 # WorkHoursTracker
 
+07/01/2017
+----------
+
+Added the new month button
+
 03/11/2016
 ----------
 
